@@ -1,1 +1,2 @@
 Hi there it's going to be our fist commit
+The checking message must be sent to the AxoSoft account
